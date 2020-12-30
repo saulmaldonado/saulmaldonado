@@ -87,7 +87,7 @@ from, to { border-color: transparent }
 			</style>
 			<div class="container">
 				<div class="typewriter">
-					<div> Welcome!</div>
+					<div>👋Welcome!</div>
 				</div>
 
 				<div class="sub-typewriter" id="typewriter-1">
@@ -97,7 +97,7 @@ from, to { border-color: transparent }
 					<div>🧐Focused on most things JavaScript and Go.</div>
 				</div>
 				<div class="sub-typewriter" id="typewriter-3">
-					<div>🙋‍♂️Actively seeking next position.  <a href="mailto:samaldonado4@gmail.com">📧 Email Me</a></div>
+					<div>🙋‍♂️Actively seeking next position.  <a href="mailto:samaldonado4@gmail.com">📧 Email Me!</a></div>
 				</div>
 			</div>
 		</div>
