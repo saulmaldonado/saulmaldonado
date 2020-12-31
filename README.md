@@ -24,7 +24,7 @@
   <a href="https://drive.google.com/file/d/1p1uj5QpLKBx84amKaNQcwvTsiydSpfah/view?usp=sharing">
     <img src="https://img.shields.io/badge/resume-0F9D58?style=for-the-badge&logo=google-drive&logoColor=white">
   </a>
-  <a href="mailti:samaldonado4@gmail.com">
+  <a href="mailto:samaldonado4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
