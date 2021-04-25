@@ -1,7 +1,7 @@
 <div align="left">
-	<br>
-		<img src="header.svg" width="800" height="200">
-	<br>
+ <br>
+  <img src="header.svg" width="800" height="200">
+ <br>
 </div>
 
 <div align="left">
@@ -30,18 +30,21 @@
   </a>
 </div>
 
-## 📊 Stats:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saulmaldonado&theme=onedark)](https://github.com/saulmaldonado/github-profile-trophy)
+## 📊 Stats
 
 <a href="https://github.com/saulmaldonado/">
-  <img align="center" alt="saulmaldonado's github stats" src="https://github-readme-stats.vercel.app/api?username=saulmaldonado&theme=dark&show_icons=true" />
+  <img align="center" width="90%" alt="saulmaldonado's github stats" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=saulmaldonado&theme=onedark" />
 </a>
 <a href="https://github.com/saulmaldonado/">
-  <img align="center" alt="saulmaldonado's github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saulmaldonado&theme=dark" />
+  <img align="center" width="45%" alt="saulmaldonado's github stats" src="https://github-readme-stats.vercel.app/api?username=saulmaldonado&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/saulmaldonado/">
+  <img align="center" width="45%" alt="saulmaldonado's github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saulmaldonado&theme=dark" />
 </a>
 
 ## 💻 Projects
+
+- [**agones-minecraft**](https://github.com/saulmaldonado/agaones-minecraft) **- Minecraft dedicated game server cluster orchestration solution using Agones**
 
 - [**skip-workflow**](https://github.com/saulmaldonado/skip-workflow) **- Github action for skipping workflows upon matching commit message(s) or pull request title/body**
 

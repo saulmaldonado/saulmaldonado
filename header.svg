@@ -26,16 +26,13 @@
 					}
 
 					#typewriter-1 {
-						width: 13.5rem;
+						width: 16rem;
 					}
 					#typewriter-2 {
-						width: 41rem;
+						width: 42rem;
 					}
 					#typewriter-3 {
 						width: 34rem;
-					}
-					#typewriter-4 {
-						width: 37.5rem;
 					}
 
 					.sub-typewriter div {
@@ -43,7 +40,7 @@
 						border-right: 0.15em solid rgb(255, 178, 35);
 						white-space: nowrap;
 						letter-spacing: 0.3em;
-						font-size: 1rem;
+						font-size: 1.25rem;
 						font-weight: 700;
 						opacity: 0;
 					}
@@ -56,9 +53,6 @@
 					}
 					#typewriter-3 div {
 						animation: subTyping 1.4s 4s forwards steps(30, end), blink-caret 1.25s step-end infinite;
-					}
-					#typewriter-4 div {
-						animation: subTyping 1.4s 5.75s forwards steps(30, end), blink-caret 1.25s step-end infinite;
 					}
 
 					@keyframes typing {
@@ -97,17 +91,14 @@
 				</div>
 
 				<div class="sub-typewriter" id="typewriter-1">
-					<div>👨‍💻Web developer.</div>
+					<div>👨‍💻Web developer</div>
 				</div>
 				<div class="sub-typewriter" id="typewriter-2">
-					<div>🌐Creates elegent web solutions to complex problems.</div>
+					<div>🧐Focused on most things JavaScript and Go</div>
 				</div>
 				<div class="sub-typewriter" id="typewriter-3">
-					<div>🧐Focused on most things JavaScript and Go.</div>
-				</div>
-				<div class="sub-typewriter" id="typewriter-4">
 					<div>
-						🙋‍♂️Actively seeking next position. <a href="mailto:samaldonado4@gmail.com">📧 Contact Me!</a>
+						🙋‍♂️Actively seeking next position 📧 Contact Me!
 					</div>
 				</div>
 			</div>
