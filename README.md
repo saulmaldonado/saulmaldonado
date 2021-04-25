@@ -44,7 +44,7 @@
 
 ## 💻 Projects
 
-- [**agones-minecraft**](https://github.com/saulmaldonado/agaones-minecraft) **- Minecraft dedicated game server cluster orchestration solution using Agones**
+- [**agones-minecraft**](https://github.com/saulmaldonado/agones-minecraft) **- Minecraft dedicated game server cluster orchestration solution using Agones**
 
 - [**skip-workflow**](https://github.com/saulmaldonado/skip-workflow) **- Github action for skipping workflows upon matching commit message(s) or pull request title/body**
 
