@@ -33,13 +33,13 @@
 ## 📊 Stats
 
 <a href="https://github.com/saulmaldonado/">
-  <img align="center" width="90%" alt="saulmaldonado's github stats" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=saulmaldonado&theme=onedark" />
+  <img align="center" width="100%" alt="saulmaldonado's github stats" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=saulmaldonado&theme=onedark" />
 </a>
 <a href="https://github.com/saulmaldonado/">
-  <img align="center" width="45%" alt="saulmaldonado's github stats" src="https://github-readme-stats.vercel.app/api?username=saulmaldonado&theme=dark&show_icons=true" />
+  <img align="center" width="49%" alt="saulmaldonado's github stats" src="https://github-readme-stats.vercel.app/api?username=saulmaldonado&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/saulmaldonado/">
-  <img align="center" width="45%" alt="saulmaldonado's github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saulmaldonado&theme=dark" />
+  <img align="center" width="49%" alt="saulmaldonado's github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saulmaldonado&theme=dark" />
 </a>
 
 ## 💻 Projects
@@ -63,7 +63,6 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)
 ![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
-![vue.js](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=white)
 
 ### 🌐 Backend
 
@@ -75,7 +74,10 @@
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=white)
 ![amazon-aws](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=white)
+![google-cloud](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=white)
+
 
 ### 🧪 Testing
 
 ![jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=white)
+![cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&labelColor=black&logo=cypress&logoColor=white)
