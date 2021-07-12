@@ -44,15 +44,15 @@
 
 ## 💻 Projects
 
-- [**agones-minecraft**](https://github.com/saulmaldonado/agones-minecraft) **- Minecraft dedicated game server cluster orchestration solution using Agones**
+- [**agones-minecraft**](https://github.com/saulmaldonado/agones-minecraft) **- Cloud-native, containerized Minecraft game server cluster orchestration solution**
 
-- [**agones-mc**](https://github.com/saulmaldonado/agones-mc) **- Minecraft server utility sidecar CLI for Agones GameServers**
+- [**agones-mc**](https://github.com/saulmaldonado/agones-mc) **- Containerized Minecraft server Go utility sidecar CLI for Agones GameServers**
+
+- [**crypto-stream**](https://github.com/saulmaldonado/crypto-stream) **- Public GraphQL cryptocurrency market data aggregator API**
 
 - [**skip-workflow**](https://github.com/saulmaldonado/skip-workflow) **- Github action for skipping workflows upon matching commit message(s) or pull request title/body**
 
 - [**dotenv-types-generator**](https://github.com/saulmaldonado/dotenv-types-generator) **- CLI tool for generating type declarations for your .env file**
-
-- [**crypto-stream**](https://github.com/saulmaldonado/crypto-stream) - **A public GraphQL crypto market data API with websocket feed**
 
 - [**ds-and-algorithms**](https://github.com/saulmaldonado/ds-and-algorithms) - **Data structures and algorithm problems with solution explanations and implementations for different languages**
 
