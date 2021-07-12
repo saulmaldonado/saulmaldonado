@@ -46,6 +46,8 @@
 
 - [**agones-minecraft**](https://github.com/saulmaldonado/agones-minecraft) **- Minecraft dedicated game server cluster orchestration solution using Agones**
 
+- [**agones-mc**](https://github.com/saulmaldonado/agones-mc) **- Minecraft server utility sidecar CLI for Agones GameServers**
+
 - [**skip-workflow**](https://github.com/saulmaldonado/skip-workflow) **- Github action for skipping workflows upon matching commit message(s) or pull request title/body**
 
 - [**dotenv-types-generator**](https://github.com/saulmaldonado/dotenv-types-generator) **- CLI tool for generating type declarations for your .env file**
