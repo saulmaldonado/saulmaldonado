@@ -7,9 +7,6 @@
 <div align="left">
 <a href="https://github.com/saulmaldonado"><img src="https://komarev.com/ghpvc/?username=saulmaldonado&color=blueviolet&style=flat-square&label=Views:" height=28/></a>
 
-  <a href="https://twitter.com/saul_mal">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/saulmaldonado4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
