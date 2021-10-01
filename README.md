@@ -16,15 +16,6 @@
   <a href="https://stackoverflow.com/users/12286015/saulmaldonado">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://saulmaldonado.com">
-    <img src="https://img.shields.io/badge/portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://drive.google.com/file/d/1p1uj5QpLKBx84amKaNQcwvTsiydSpfah/view?usp=sharing">
-    <img src="https://img.shields.io/badge/resume-0F9D58?style=for-the-badge&logo=google-drive&logoColor=white">
-  </a>
-  <a href="mailto:samaldonado4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/saulmaldonado/GPG-Keys">
     <img src="https://img.shields.io/badge/gpg keys-0093DD?style=for-the-badge&logo=GNU-privacy-guard&logoColor=white" />
   </a>
